@@ -12,7 +12,7 @@ function setup() {
 // Declare the draw function
 function draw() {
 
-    // tell p5 to write "Hello World!"
-    // tell p5 to position Hello World at 600, 100 x,y
-    text( "Hello World!", 600, 100 );
+    // tell p5 to write my hello world message
+    // tell p5 to position text at 600, 100 x,y
+    text( "Hey there, World! Lookin' good buddy.", 600, 100 );
 }
