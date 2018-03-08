@@ -14,7 +14,7 @@ function setup() {
 
 function draw() {
   background("turquoise")
-  noCursor()
+  noCursor() 
 
 
   fill ("white")

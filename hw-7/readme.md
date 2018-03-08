@@ -6,7 +6,7 @@ Zoie Koostra, Section 50
 # HW 7 | Describe then Alter the Bouncing Ball
 
 ## Description of What the Original Code is Doing
-
+ 
 <!--
 I'm just going to go in order of what the code actually is
 instead of trying to explain it all at once.
@@ -49,5 +49,5 @@ I altered the sketch in some really simple ways but I feel like I really created
 
 First, I made the function that tells the ball what to do when the mouse is clicked also control what color the background was, so now when you click the mouse, the background changes to a random color.
 
-Then I used the if statements that dictate what the ball should do when it hits the boundary to make the ball change color everytime it hits the boundary. Then I took away the stroke so the ball would appear to be sort of a continuous line, which makes the sketch turn into a creation of sort of like crazy plaid. 
+Then I used the if statements that dictate what the ball should do when it hits the boundary to make the ball change color everytime it hits the boundary. Then I took away the stroke so the ball would appear to be sort of a continuous line, which makes the sketch turn into a creation of sort of like crazy plaid.
 -->
