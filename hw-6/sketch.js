@@ -79,10 +79,4 @@ refresh = map(mouseX, 0, width, 30, 90)
   ellipse(donut1.x, donut1.y, donut1.w)
   fill(colR, colG, colB);
   ellipse(donut2.x, donut2.y, donut2.w)
-
-
-
-
-
-
 }
