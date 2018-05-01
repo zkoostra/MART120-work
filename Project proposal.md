@@ -16,3 +16,5 @@ So here's a list of things I think I need/things I need to do for this project.
 5. Figure out how to set it to music.
 6. Storyboard animations so I know what everything should look like and say.
 7. Make the thing.
+
+PS I talked to Michael today (4/30) and I've gotten an extension to next Friday on this project. I'll be emailing another note just wanted to list here also since my lazy ass hasn't turned this thing in lol.
